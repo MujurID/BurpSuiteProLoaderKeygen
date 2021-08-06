@@ -17,7 +17,7 @@ Burp Suite Pro Loader &amp; Keygen ( BurpSuite version v2020.1 - ∞ )
 
 ## 使用方法
 
-环境要求：Java v9-14   BurpSuite v2020.1-∞
+环境要求：Java v9+   BurpSuite v2020.1-∞
 
 双击运行BurpLoaderKeygen(Cn).jar
 
