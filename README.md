@@ -11,6 +11,9 @@ Burp Suite Pro Loader &amp; Keygen ( BurpSuite version v2020.1 - ∞ )
 三个项目整合而成，另外加了一点新功能（检测Burp更新，自动启动）
 
 ### **jar包未混淆，欢迎围观！**
+## BUG
+
+汉化时，发送到Intruder模块有问题
 
 ## 使用方法
 
