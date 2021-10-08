@@ -12,7 +12,6 @@ Burp Suite Pro Loader &amp; Keygen ( BurpSuite version v2020.1 - ∞ )
 - 检测Burp更新
 - 自动启动burp的功能
 - 自动使用目录中的java环境启动Burp
-![image](https://user-images.githubusercontent.com/52311174/136488232-bae027a6-8f9a-45eb-9d6c-e0b150084170.png)
 
 ### **jar包未混淆，欢迎围观！**
 
