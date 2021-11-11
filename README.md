@@ -21,7 +21,7 @@ Burp Suite Pro Loader &amp; Keygen ( BurpSuite version v2020.1 - ∞ )
 
 ## 使用方法
 
-环境要求：<img src="https://img.shields.io/static/v1?label=JAVA&message=v9%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=v2020.1%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux&color=blue">
+环境要求：<img src="https://img.shields.io/static/v1?label=JAVA&message=v9-v16&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=v2020.1%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux&color=blue">
 
 可以将Java环境放到同一目录下，注册机会自动调用目录下的Java来启动burp
 ![image](https://user-images.githubusercontent.com/52311174/136488232-bae027a6-8f9a-45eb-9d6c-e0b150084170.png)
