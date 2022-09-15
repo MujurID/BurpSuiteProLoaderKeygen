@@ -1,6 +1,7 @@
 # BurpLoaderKeygen <img src="https://img.shields.io/static/v1?label=JAVA&message=v8%2B&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=1.7%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux | macOS&color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/h3110w0r1d-y/BurpLoaderKeygen?style=social">
 Burp Suite Pro Loader &amp; Keygen ( v1.7-v2022.8 )
-
+## ‼️ Only v2022.8 and below is supported, for v2022.9 and above, please use ja-netfilter. https://github.com/h3110w0r1d-y/BurpLoaderKeygen/issues/22
+## ‼️ 只支持 v2022.8 及以下版本, v2022.9 及以上版本请使用ja-netfilter激活. https://github.com/h3110w0r1d-y/BurpLoaderKeygen/issues/22
 ## **项目仅供学习和交流使用，商业使用请购买正版软件！链接:https://portswigger.net/burp**
 ## **This project is only for learning and communication. For commercial use, please buy genuine software! Link:https://portswigger.net/burp**
 ### 本项目由以下项目整合而成 / This project is integrated by the following projects 
