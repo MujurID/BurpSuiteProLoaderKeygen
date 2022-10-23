@@ -39,6 +39,12 @@ cd "/Applications/Burp Suite Professional.app/Contents/Resources/app"
 ```
 之后便可以正常启动了
 
+如果出现以下错误
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/52311174/197393162-cdd3be46-6e33-42e2-8c62-773a991ba59d.png">
+```
+sudo xattr -r -d com.apple.quarantine /Applications/Burp\ Suite\ Professional.app
+```
+
 ### 其他系统食用方法
 
 0. 将BurpLoaderKeygen.jar、burpsuite_pro_v20**.*.jar 放到同一目录下(也可将指定版本的Java放到目录中，注册机会自动调用)
