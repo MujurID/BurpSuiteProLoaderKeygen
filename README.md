@@ -1,7 +1,6 @@
 # BurpLoaderKeygen <img src="https://img.shields.io/static/v1?label=JAVA&message=v8%2B&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=1.7%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux | macOS&color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/h3110w0r1d-y/BurpLoaderKeygen?style=social">
-Burp Suite Pro Loader &amp; Keygen ( v1.7-v2022.8 )
-## ‼️ Only v2022.8 and below is supported, for v2022.9 and above, please use ja-netfilter. https://github.com/h3110w0r1d-y/BurpLoaderKeygen/issues/22
-## ‼️ 只支持 v2022.8 及以下版本, v2022.9 及以上版本请使用ja-netfilter激活. https://github.com/h3110w0r1d-y/BurpLoaderKeygen/issues/22
+Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
+
 ## **项目仅供学习和交流使用，商业使用请购买正版软件！链接:https://portswigger.net/burp**
 ## **This project is only for learning and communication. For commercial use, please buy genuine software! Link:https://portswigger.net/burp**
 ### 本项目由以下项目整合而成 / This project is integrated by the following projects 
@@ -22,36 +21,25 @@ Burp Suite Pro Loader &amp; Keygen ( v1.7-v2022.8 )
 - Support BurpSuite v1.7-v2022.8
 
 ### **Jar包未混淆，欢迎dalao们改进！**
-
-## BUG
-
-如果发现BUG，欢迎提交Issues
-
-## Mac版食用方法
-
-安装Mac版Burp
-
-将注册机放置到`/Applications/Burp Suite Professional.app/Contents/Resources/app`目录下
-
-执行以下命令启动注册机
-
+## 食用方法
+### Mac版食用方法
+0. 安装Mac版Burp
+1. 将注册机放置到`/Applications/Burp Suite Professional.app/Contents/Resources/app`目录下
+2. 执行以下命令启动注册机
 ```
 cd "/Applications/Burp Suite Professional.app/Contents/Resources/app"
 "/Applications/Burp Suite Professional.app/Contents/Resources/jre.bundle/Contents/Home/bin/java" -jar BurpLoaderKeygen.jar
 ```
-
 点击run启动Burp, 激活后关闭注册机
 
-修改`/Applications/Burp Suite Professional.app/Contents/vmoptions.txt`, 增加两行
-
+3. 修改`/Applications/Burp Suite Professional.app/Contents/vmoptions.txt`, 增加两行
 ```
 -javaagent:BurpLoaderKeygen.jar
 -noverify
 ```
-
 之后便可以正常启动了
 
-## 其他系统食用方法
+### 其他系统食用方法
 
 0. 将BurpLoaderKeygen.jar、burpsuite_pro_v20**.*.jar 放到同一目录下(也可将指定版本的Java放到目录中，注册机会自动调用)
 ![image](https://user-images.githubusercontent.com/52311174/136488232-bae027a6-8f9a-45eb-9d6c-e0b150084170.png)
