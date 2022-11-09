@@ -12,13 +12,13 @@ Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
 - 不用编写脚本，自动启动burp，只需要勾选`Auto Run`
 - 支持指定Java版本，只需要把指定版本的Java放到同目录下，注册机会自动调用
 - 支持Java8及以上所有版本
-- 支持BurpSuite v1.7-v2022.8
+- 支持BurpSuite v1.7+
 
 - Detect burp updates. If you don't need, please check `Ignore Update` 
 - Auto start burp without write command manually, just check `Auto Run`
 - Support for specifying java versions, just put java files in same path
 - Support Java 8+
-- Support BurpSuite v1.7-v2022.8
+- Support BurpSuite v1.7+
 
 ### **Jar包未混淆，欢迎dalao们改进！**
 ## 食用方法
