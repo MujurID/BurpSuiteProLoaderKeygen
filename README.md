@@ -6,7 +6,7 @@ Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
 ### 本项目由以下项目整合而成 / This project is integrated by the following projects 
 - https://github.com/x-Ai/BurpSuiteLoader
 - BurpSuitePro Loader&Keygen By surferxyz
-- 最新Patch方案来源: https://www.52pojie.cn/thread-1709583-1-1.html
+- https://github.com/googleweb/loader
 
 ### 特性 / Features
 - 检测Burp更新，如果不需要检测请勾选`Ignore Update`
