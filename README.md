@@ -1,4 +1,4 @@
-# BurpLoaderKeygen <img src="https://img.shields.io/static/v1?label=JAVA&message=v8%2B&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=1.7%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux | macOS&color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/h3110w0r1d-y/BurpLoaderKeygen?style=social">
+# BurpLoaderKeygen <img src="https://img.shields.io/static/v1?label=JAVA&message=v8-15&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=1.7%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux | macOS&color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/h3110w0r1d-y/BurpLoaderKeygen?style=social">
 Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
 
 ## **项目仅供学习和交流使用，商业使用请购买正版软件！链接:https://portswigger.net/burp**
@@ -11,13 +11,13 @@ Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
 - 检测Burp更新，如果不需要检测请勾选`Ignore Update`
 - 不用编写脚本，自动启动burp，只需要勾选`Auto Run`
 - 支持指定Java版本，只需要把指定版本的Java放到同目录下，注册机会自动调用
-- 支持Java8及以上所有版本
+- 支持Java8-15
 - 支持BurpSuite v1.7+
 
 - Detect burp updates. If you don't need, please check `Ignore Update` 
 - Auto start burp without write command manually, just check `Auto Run`
 - Support for specifying java versions, just put java files in same path
-- Support Java 8+
+- Support Java 8-15
 - Support BurpSuite v1.7+
 
 ### **Jar包未混淆，欢迎dalao们改进！**
