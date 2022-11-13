@@ -1,12 +1,15 @@
 # BurpLoaderKeygen <img src="https://img.shields.io/static/v1?label=JAVA&message=v8%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=1.7%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux | macOS&color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/h3110w0r1d-y/BurpLoaderKeygen?style=social">
 Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
 
-## **项目仅供学习和交流使用，商业使用请购买正版软件！链接:https://portswigger.net/burp**
-## **This project is only for learning and communication. For commercial use, please buy genuine software! Link:https://portswigger.net/burp**
-### 本项目由以下项目整合而成 / This project is integrated by the following projects 
+## 本项目由以下项目整合而成 / This project is integrated by the following projects
 - https://github.com/x-Ai/BurpSuiteLoader
 - BurpSuitePro Loader&Keygen By surferxyz
 - https://github.com/googleweb/loader
+
+### 核心的patch代码和算号代码并不是我写的，本项目1.9版本中的破解方案来自这位大佬 @googleweb ，我只是把各位大佬的Loader和Keygen整合到一块加了点小功能方便使用
+
+## **项目仅供学习和交流使用，商业使用请购买正版软件！链接:https://portswigger.net/burp**
+## **This project is only for learning and communication. For commercial use, please buy genuine software! Link:https://portswigger.net/burp**
 
 ### 特性 / Features
 - 检测Burp更新，如果不需要检测请勾选`Ignore Update`
