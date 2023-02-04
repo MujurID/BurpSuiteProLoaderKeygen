@@ -66,3 +66,7 @@ sudo xattr -r -d com.apple.quarantine /Applications/Burp\ Suite\ Professional.ap
 2. 点击`Run`，输入许可证然后选择**手动激活**即可
 
 3. 激活后勾选`Auto Run`，打开BurpLoaderKeygen.jar即可自动启动BurpSuite，不显示注册机窗口，但会在后台自动检测Burp更新，当检测到更新时将显示注册机，你可以勾选`Ignore Update` 来禁止检测更新，启动Burp后注册机直接退出。
+
+
+
+https://github.com/h3110w0r1d-y/BurpLoaderKeygen
